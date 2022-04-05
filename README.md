@@ -1,2 +1,3 @@
-# portfo
-Files for my Portfolio and hosting site.
+# Resume and Portfolio
+All about Eric Emery, all made by Eric Emery, all in one space.
+  emery.space
