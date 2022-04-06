@@ -1,0 +1,1028 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"IMPORT",
+				"I-ApplyImports"
+			],
+			[
+				"COLLEC",
+				"COLLECTIONS"
+			],
+			[
+				"modu",
+				"E-menuDragMouseDragged"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"li",
+				"LongToIntFunction"
+			],
+			[
+				"proj",
+				"proj_cost"
+			],
+			[
+				"num",
+				"number_format="
+			],
+			[
+				"Style",
+				"NamedStyle"
+			],
+			[
+				"nu",
+				"number_format="
+			],
+			[
+				"bo",
+				"bold="
+			],
+			[
+				"tra",
+				"tracker"
+			],
+			[
+				"ali",
+				"align"
+			],
+			[
+				"top",
+				"top="
+			],
+			[
+				"col",
+				"color="
+			],
+			[
+				"Fi",
+				"PatternFill"
+			],
+			[
+				"ma",
+				"master_wb"
+			],
+			[
+				"new",
+				"new_proj_name"
+			],
+			[
+				"prod",
+				"prod_total"
+			],
+			[
+				"mas",
+				"master_wb"
+			],
+			[
+				"ce",
+				"cells"
+			],
+			[
+				"tes",
+				"test_wb"
+			],
+			[
+				"ins",
+				"insert_cols"
+			],
+			[
+				"trac",
+				"track_ws"
+			],
+			[
+				"tr",
+				"tracker"
+			],
+			[
+				"ent",
+				"entry_ws"
+			],
+			[
+				"dat",
+				"data_only="
+			],
+			[
+				"cell",
+				"cell_range_2"
+			],
+			[
+				"Tem",
+				"Templates/"
+			],
+			[
+				"Te",
+				"Templates/"
+			],
+			[
+				"te",
+				"Tester_Master.xlsx"
+			],
+			[
+				"proj_",
+				"proj_list"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"da",
+				"data_only="
+			],
+			[
+				"sel",
+				"sel_file"
+			],
+			[
+				"Ex",
+				"Excel Files/"
+			],
+			[
+				"asko",
+				"askopenfilename"
+			],
+			[
+				"op",
+				"open_top"
+			],
+			[
+				"Ima",
+				"Images/"
+			],
+			[
+				"ask",
+				"mb.askokcancel"
+			],
+			[
+				"qu",
+				"askquestion"
+			],
+			[
+				"v",
+				"variable"
+			],
+			[
+				"butt",
+				"button2"
+			],
+			[
+				"Labe",
+				"LabelFrame"
+			],
+			[
+				"hhs_num_",
+				"hhs_num_entry"
+			],
+			[
+				"hhs_num",
+				"hhs_num_entry"
+			],
+			[
+				"hh",
+				"hhs_num_label"
+			],
+			[
+				"Im",
+				"Images/"
+			],
+			[
+				"my_",
+				"my_label"
+			],
+			[
+				"Wor",
+				"Workbook"
+			],
+			[
+				"shee",
+				"sheet_name"
+			],
+			[
+				"get",
+				"get_column_letter"
+			],
+			[
+				"Exc",
+				"example_excel_1"
+			],
+			[
+				"ws",
+				"ws_new"
+			],
+			[
+				"w",
+				"wb_new"
+			],
+			[
+				"Wo",
+				"Workbook"
+			],
+			[
+				"cha",
+				"characters_2"
+			],
+			[
+				"char",
+				"characters_1"
+			],
+			[
+				"wor",
+				"word_list2"
+			],
+			[
+				"wo",
+				"word_list2"
+			],
+			[
+				"st",
+				"strip\tabc"
+			],
+			[
+				"cou",
+				"count\tabc"
+			],
+			[
+				"str",
+				"stringcheck\tabc"
+			],
+			[
+				"pdf",
+				"PdfFileWriter\tclass"
+			],
+			[
+				"Pdf",
+				"PdfFileReader\tclass"
+			],
+			[
+				"ne",
+				"new_file\tstatement"
+			],
+			[
+				"mer",
+				"mergePage"
+			],
+			[
+				"cmd",
+				"cmder"
+			],
+			[
+				"Pd",
+				"PdfFileReader\tclass"
+			],
+			[
+				"PdfF",
+				"PdfFileWriter\tclass"
+			],
+			[
+				"rotate",
+				"rotateCounterClockwise\tfunction"
+			],
+			[
+				"n",
+				"numPages\tstatement"
+			],
+			[
+				"PD",
+				"PdfFileReader\tclass"
+			],
+			[
+				"print",
+				"printnum\tstatement"
+			],
+			[
+				"png",
+				"PNG"
+			],
+			[
+				"ima",
+				"image_folder"
+			],
+			[
+				"image",
+				"image_folder\tstatement"
+			],
+			[
+				"inp",
+				"input_folder\tstatement"
+			],
+			[
+				"filt",
+				"filt_img3\tstatement"
+			],
+			[
+				"fil",
+				"filt_img3\tstatement"
+			],
+			[
+				"Image",
+				"ImageFilter\tmodule"
+			],
+			[
+				"conv",
+				"conv_img\tstatement"
+			],
+			[
+				"s",
+				"SHARPEN\tclass"
+			],
+			[
+				"S",
+				"SMOOTH\tclass"
+			],
+			[
+				"asser",
+				"assertEqual\tfunction"
+			],
+			[
+				"guess",
+				"guessgame\tfunction"
+			],
+			[
+				"mo",
+				"mock\tmodule"
+			],
+			[
+				"m",
+				"mock"
+			],
+			[
+				"mock",
+				"mocked_input\tparam"
+			],
+			[
+				"ut",
+				"ut_main"
+			],
+			[
+				"uni",
+				"unittest_main"
+			],
+			[
+				"asse",
+				"assertEqual\tfunction"
+			],
+			[
+				"prin",
+				"printString\tfunction"
+			],
+			[
+				"trans",
+				"translation\tstatement"
+			],
+			[
+				"next",
+				"next_text\tstatement"
+			],
+			[
+				"nex",
+				"next_text\tstatement"
+			],
+			[
+				"base",
+				"basecount\tstatement"
+			],
+			[
+				"ans",
+				"ans\tstatement"
+			],
+			[
+				"if",
+				"if\tkeyword"
+			],
+			[
+				"lis",
+				"lis_a\tstatement"
+			],
+			[
+				"symb",
+				"Symbol\tclass"
+			],
+			[
+				"sym",
+				"symbol"
+			],
+			[
+				"upp",
+				"upper"
+			],
+			[
+				"spli",
+				"splitlines\tfunction"
+			],
+			[
+				"str_a",
+				"str_a\tstatement"
+			],
+			[
+				"for",
+				"for_if_loop\tfunction"
+			],
+			[
+				"param",
+				"paramaters_a\tparam"
+			],
+			[
+				"fun",
+				"function_name\tfunction"
+			],
+			[
+				"par",
+				"paramaters_b\tparam"
+			],
+			[
+				"dic",
+				"dict_a\tstatement"
+			],
+			[
+				"po",
+				"popitem\tfunction"
+			],
+			[
+				"dict_",
+				"dict_b\tstatement"
+			],
+			[
+				"symm",
+				"symmetric_difference_update\tfunction"
+			],
+			[
+				"inter",
+				"intersection_update\tfunction"
+			],
+			[
+				"diff",
+				"difference_update\tfunction"
+			],
+			[
+				"exam",
+				"example_usernumbers"
+			],
+			[
+				"fib",
+				"fibinacci"
+			],
+			[
+				"Rev",
+				"ReverseIt\tfunction"
+			],
+			[
+				"fi",
+				"fib_count\tstatement"
+			],
+			[
+				"Fib",
+				"FibSeq\tclass"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"gen",
+				"generator_function2\tfunction"
+			],
+			[
+				"gner",
+				"generator_function2\tfunction"
+			],
+			[
+				"exce",
+				"Exception\tclass"
+			],
+			[
+				"us",
+				"user1\tstatement"
+			],
+			[
+				"di",
+				"divisors\tstatement"
+			],
+			[
+				"che",
+				"check_prime\tfunction"
+			],
+			[
+				"divi",
+				"divisors"
+			],
+			[
+				"list",
+				"list_1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packageresour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"Pao",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				" prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pao",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pov",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"open re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package resou",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax py",
+				"Set Syntax: Python3"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.LogCommands(True)",
+			"sublime.LogComands(True)",
+			"4 == 5",
+			"python3 JPGtoPNG.py",
+			"dir",
+			"socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 52964))",
+			"import_socket: socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 52964))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 52964))",
+			"pwd",
+			"ls",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"python.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(true)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(Fales)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"li",
+			"dir",
+			"open(C:\\Users\\Aeronas\\Documents\\Python Programs\\Coder_Decoder.py)",
+			"C:\\Users\\Aeronas\\Documents\\Python Programs\\Coder_Decoder.py",
+			"e"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/erict/Documents/Programming/GitHub/portfo"
+	],
+	"file_history":
+	[
+		"/C/Users/erict/Documents/#Files/Eric's Files/Resume & Cover Letters/EricEmery-Res.html",
+		"/C/Users/erict/Documents/Programming/GitHub/portfo/.git/COMMIT_EDITMSG",
+		"/C/Users/erict/Documents/Programming/GitHub/portfo/README.md",
+		"/C/Users/erict/Documents/Programming/Python/#myCodes/WebServer/portfo/templates/index.html",
+		"/C/Users/erict/Documents/Programming/Python/#myCodes/WebServer/portfo/templates/about.html",
+		"/C/Users/erict/Documents/Programming/Python/#myCodes/WebServer/portfo/hostServer.py",
+		"/C/Users/erict/Documents/Programming/Java/Udemy-Beg2Guru/Sublime Text/b2g-helloworld.java",
+		"/C/Users/erict/AppData/Roaming/Sublime Text 3/Packages/mdpopups/Preferences.sublime-settings",
+		"/C/Users/erict/Documents/Programming/Java/#myCodes/Sublime Text/b2g-helloworld.java",
+		"/C/Users/erict/Documents/Programming/Python/Learn-Practice/Online/OpenPyXL/Daily-Input_Back-End.py",
+		"/C/Users/erict/Documents/Programming/Python/Learn-Practice/Online/OpenPyXL/Quick_Testing.py",
+		"/C/Users/erict/Documents/Programming/Python/Learn-Practice/Online/OpenPyXL/style_example.py",
+		"/C/Users/erict/Documents/Programming/Python/Learn-Practice/Online/OpenPyXL/styled.xlsx",
+		"/C/Users/erict/Documents/Programming/Python/Learn-Practice/Online/OpenPyXL/Tracker_Testing.py",
+		"/C/Users/erict/Documents/Programming/GitHub/hhs-automate/HHS Operations/Testing/Tracker_Testing.py",
+		"/C/Users/erict/Documents/Programming/GitHub/hhs-automate/HHS Operations/Templates/future-use.py",
+		"/C/Users/erict/Documents/Programming/Python/Learn-Practice/Online/OpenPyXL/starting_out.py",
+		"/C/Users/erict/Documents/Programming/GitHub/hhs-automate/HHS Operations/TrackerGUI_1.0.py",
+		"/C/Users/erict/Documents/Programming/Python/Learn-Practice/Online/GUI/Tkinter/tk-basics.py",
+		"/C/Users/erict/Documents/Programming/Python/Learn-Practice/Online/GUI/Tkinter/tk-dropdownmenu.py",
+		"/C/Users/erict/Documents/Programming/Python/Learn-Practice/Online/GUI/Tkinter/tk-radiobuttons.py",
+		"/C/Users/erict/Documents/Programming/Python/Learn-Practice/Online/GUI/Tkinter/quick-test.py",
+		"/C/Users/erict/Documents/Programming/Python/Learn-Practice/Online/GUI/Tkinter/tk-icons_images.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/GUI/Tkinter/tk-basics.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/GUI/Tkinter/tk-calculator.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/GUI/Tkinter/tk-starting.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/GUI/Tkinter/tk-openfiles.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/GUI/Tkinter/tk-addwindows.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/GUI/Tkinter/tk-messagebox.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/GUI/Tkinter/tk-radiobuttons.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/GUI/Tkinter/tk-frames.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/GUI/Tkinter/tk-icons_images.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/#myCodes/HHS Operations/Input-GUI.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/#myCodes/HHS Operations/Input-DailyProduction.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/#myCodes/HHS Operations/Testing/Test_Input-Daily.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/#myCodes/Tools-Utilities/pwGenerator.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/Practice Python/PP16_PasswordGenerator.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/Excercise 100/Q9A.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/Excercise 100/Q8A.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/Excercise 100/Q7A.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/Excercise 100/Q6A.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/CodeWars/LargestArray.py",
+		"/C/Users/Aeronas/AppData/Local/Temp/Temp1_nobody_english-2504611.zip/Nobody 2021 BD [karagara].srt",
+		"/D/New Additions/Nobody (2021)/Nobody 2021 BD [karagara].srt",
+		"/C/Users/Aeronas/Documents/Programming/Python/Learn-Practice/Online/CodeWars/Top3Words.py",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/Aeronas/Documents/Programming/Python/#myCodes/Tools-Utilities/ip_traceroute.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/#myCodes/Call-Text-Email/emailTemplates/basicTemplate.html",
+		"/C/Users/Aeronas/Documents/Programming/Python/#myCodes/Call-Text-Email/email_Personalized.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/#myCodes/Call-Text-Email/email_Main.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/#myCodes/Email/templateEmail.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/pythonEmail/email_Template.html",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/pythonEmail/email_Main.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/pythonEmail/pythonEmailing.sublime-project",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/processPDF/PDF_Watermark.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/processPDF/PDF_Main.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/#1 Python IDLE/LearnPython Book/classdemo.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Useful Codes/PDFs/PDF_Watermark.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/processPDF/PDF_Merger.py",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/pygments/all/pygments/formatters/terminal.py",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/User/Terminal.sublime-settings",
+		"/C/Users/Aeronas/Documents/Programming/Python/Useful Codes/PDF_Combine.py",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/User/Terminal (Windows).sublime-settings",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/processPDF/PDF_Rotater.py",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/Terminal/Terminal.py",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/Material Theme/schemes/Material-Theme.tmTheme",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/C/Users/Aeronas/Documents/Programming/Python/Examples/Example_ClassBuilding.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/PYnative Exercises/QTesters.py",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/Colorsublime/Colorsublime-Themes-master/Colorsublime-Themes-master/themes/Hyrule.tmTheme",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/User/Colorsublime.sublime-settings",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/processPDF/processPDF/PDF_Main.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/Image_Processing/ImageProcessing.sublime-project",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/processPDF.sublime-project",
+		"/C/Users/Aeronas/Documents/Programming/Python/PYnative Exercises/Q07.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/PYnative Exercises/Q08.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/recent.json",
+		"/C/Program Files (x86)/SublimeText/Data/Cache/Material Theme/schemes/Material-Theme.tmTheme.cache",
+		"/C/Program Files (x86)/SublimeText/Data/Installed Packages/Material Theme.sublime-package",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/Colorsublime - Themes/Ease.tmTheme",
+		"/C/Users/Aeronas/Documents/Programming/Python/PYnative Exercises/Q06.py",
+		"/C/Users/Aeronas/Documents/Programming/C++/w3schools/FirstFile.cpp",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/ImageProcess/JPGtoPNG.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/ImageProcess/MainProcess.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/ImageProcess/TestProcess.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Coder_Decoder.py",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/PackageResourceViewer/PackageResourceViewer.sublime-settings",
+		"/C/Users/Aeronas/Documents/Programming/Python/Exercises/Exercise_Unittest/randomtest.py",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/10% Too Dull for My Tastes Color Scheme/scotchy.tmTheme",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/10% Too Dull for My Tastes Color Scheme/README.md",
+		"/C/Users/Aeronas/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/PIL/Image.py",
+		"/C/Users/Aeronas/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/PIL/FontFile.py",
+		"/C/Program Files (x86)/SublimeText/Data/Installed Packages/MagicPython.sublime-package",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/MagicPython/settings/sublime/MagicPython.sublime-settings",
+		"/C/Program Files (x86)/SublimeText/Data/Installed Packages/Agola Nimbus.tmTheme",
+		"/C/Program Files (x86)/SublimeText/Data/Installed Packages/Agola Color Schemes.sublime-package",
+		"/C/Program Files (x86)/SublimeText/Packages/Agola Nimbus.tmTheme",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/User/PackageResourceViewer.sublime-settings",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/User/Package Control.sublime-settings",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/User/Python3.sublime-settings",
+		"/C/Program Files (x86)/SublimeText/Data/Installed Packages/ayu.sublime-package",
+		"/C/Users/Aeronas/Documents/Programming/Python/Projects/ZtoM/ProjectImageProcess.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Exercises/Exercise_Unittest/randomscript.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Exercises/Exercise_Unittest/helpfilerand.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Examples/Example_UnitTests/ut_main.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Examples/Example_UnitTests/ut_test.py",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/User/Projects/Example_UnitTests.sublime-project",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/User/Projects/Example_Project.sublime-project",
+		"/C/Users/Aeronas/Documents/Programming/Python/Examples/Example_UnitTests/Unittest_Main.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Examples/Example_UnitTests/Unittest_Test.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Examples/Example_UnitTests/Unittest_Project.sublime-project",
+		"/C/Users/Aeronas/Documents/Programming/Python/Examples/Unittest_Test.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Examples/Unittest_Main.py",
+		"/C/Users/Aeronas/Documents/Programming/Python/Examples/Example_Project/ex_main.py",
+		"/C/Users/Aeronas/Documents/Programming/Python Programs/Examples/Unittest_Main.py",
+		"/C/Users/Aeronas/Documents/Programming/Python Programs/Examples/Unittest_Test.py",
+		"/C/Users/Aeronas/Documents/Programming/Python Programs/Email_Validater.py",
+		"/C/Users/Aeronas/Documents/Programming/Python Programs/Exercises/Exercise_PassCheck.py",
+		"/C/Users/Aeronas/Documents/Programming/Python Programs/Examples/Example_RegExp.py",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Aeronas/Documents/Programming/Python Programs/Examples/Example_RedExp.py",
+		"/C/Program Files (x86)/SublimeText/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Aeronas/Documents/Programming/Python Programs/Python 100 Ex/Q6A.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"proj_data",
+			">>>",
+			"\n>>>",
+			"proj_total",
+			"prod_total",
+			"day_total",
+			"prod_total",
+			"proj_tracker",
+			"mpt",
+			"di",
+			"prod",
+			"info",
+			"di_ws",
+			"track_ws",
+			"=",
+			"text",
+			"Text",
+			"text",
+			"filename",
+			"symbol",
+			"messagebox",
+			"myLabel",
+			"month_entry = Entry(root)\n",
+			"opy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 133.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 133.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 133.0
+	},
+	"output.Terminus 4":
+	{
+		"height": 133.0
+	},
+	"output.Terminus 5":
+	{
+		"height": 133.0
+	},
+	"output.Terminus 6":
+	{
+		"height": 133.0
+	},
+	"output.Terminus 7":
+	{
+		"height": 133.0
+	},
+	"output.Terminus 8":
+	{
+		"height": 133.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "portfo.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Aeronas\\Documents\\Python Programs\\Coder_Decoder.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 165.6,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 580.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
