@@ -1,222 +1,356 @@
+<!DOCTYPE html PUBLIC " -//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+                   <html>
+                    <head>
+                        <meta http-equiv="Content-Type" content="text/html;charset=utf-16" />
+                        <title>Eric Emery</title><style type="text/css" id="font">
+        @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700");
+    </style><style type="text/css" id="static">
+       
+        html,body{margin:0;border:0;outline:0;vertical-align:baseline;background:transparent}
+        span,applet,object,iframe,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+        div#document h1,div#document h2,div#document h3,div#document h4,div#document h5,div#document h6,div#document p,div#document img{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;}
+        div#document{word-wrap:break-word;box-sizing:border-box}
+        div#document ul{list-style:none}
+        div#document blockquote,div#document q{quotes:none;}
+        div#document blockquote:before,div#document blockquote:after,div#document q:before,div#document q:after{content:'';content:none;}
+        /*remember to define focus styles!*/:focus{outline:0;}
+        /*remember to highlight inserts somehow! ins{text-decoration:none;}*/
+        div#document del{text-decoration:line-through;}
+        div#document a img{border:none;}
+		
+		
+        /*Typography*/
+        /*START old disc style for LI
+        div#document ul,div#document li{list-style-type:disc;margin:0 0 0 9pt;padding:0;}
+        div#document ul li{margin:0 0 0 8pt;padding:0 0 0 2pt;}
+        END old disc style for LI*/
+        /*START Image treatment for LI*/
+        div#document ul{list-style-type:disc; margin:0;  padding-left: 11pt;}
+        div#document .text-break{display:block;margin-top:2pt}
+        div#document ol{margin:0;}
+        div#document ul li, div#document ol li{margin:0;padding:0;}
+        div#document ol li{list-style-type:decimal}
+	
+        /*END Image treatment for LI*/
+        div#document .clear{clear:both;height:0;}
+        div#document br.clear{line-height:0;}
+        div#document div.heading{clear:both;font-weight:700;line-height:15pt;width:100%;padding:0 8pt;text-transform: uppercase;box-sizing: border-box;margin-bottom: 5pt;}
+        div#document div.address{position:relative;text-align:left;font-size:inherit;line-height:inherit;color: #fff;word-wrap:break-word}
+        div#document div.address span{word-break:break-all;}
+		div#document .FIELD_EMAIL{display:block}
+        div#document .FIELD_HPHN, div#document .FIELD_CPHN{display:inline-block}
+        div#document span.cdesc{font-style:italic;display:none;}
+        div#document .datesWrapper {float: none;}
+        div#document span.paddedline{display:block;color:#333;}
+        div#document span.paddedline.workcompanyname{ display: inline;}
+		div#document span.paddedline .degree{font-weight:700;}
+        div#document span.sprtr{ margin-left: -2pt; margin-right: 1pt;}
+        div#document span.jobtitle{display:block; font-weight: 700;letter-spacing: 0.66pt;}
+        div#document .nodisplay{display:none;}
+        div#document div.resumeTitle,div.execRsmTitle{font-weight:700;text-align:center;}
+        div#document .singlecolumn .jobtitle{display:inline;}
+	    div#document span.dateyear{color:#333;display:inline-block;margin-top:-4pt;}
+		div#document span.worklocation{display:inline-block;}
+        /* div#document .charspace{} */
+        /*FIX for FORCEFULLY making left margin ZERO for CL*/
 
-
-
-<!DOCTYPE html>
-<html>
-<head prefix="og: http://ogp.me/ns# profile: http://ogp.me/ns/profile#">
-    <meta name="viewport" content="width=device-width" />
-    <title>Resume Website</title>
-
-<script>
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-K9TD7W3');</script>
-    <!--Link to manifest-->
-    <link rel="manifest" href="/manifest.json">
-    <!--Theme color for android-->
-    <meta name="theme-color" content="#8cc53e" />
-    <!--Icons For iOs-->
-    <link rel="apple-touch-icon" href="/images/touch-icon-iphone.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/images/touch-icon-ipad.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/images/touch-icon-iphone-retina.png">
-    <link rel="apple-touch-icon" sizes="167x167" href="/images/touch-icon-ipad-retina.png">
-    <!--Status Bar-->
-    <meta name="apple-mobile-web-app-status-bar-style" content="translucent black">
-    <!--Hiding Safari User Interface Components-->
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <!--Launch Icon Title-->
-    <meta name="apple-mobile-web-app-title" content="ResumeNerd">
-
-    <!-- Facebook meta data -->
-    <meta property="og:title" content="Eric Emery" />
-    <meta property="og:url" content="https://www.resumenerd.com/sites/ee-13" />
-    <meta property="og:type" content="profile" />
-    <meta property="profile:first_name" content="Eric">
-    <meta property="profile:last_name" content="Emery">
-    <meta property="og:description" content="Click here to visit my professional website for more information about me and my career." />
-    <meta property="og:site_name" content="ResumeNerd" />
-    <meta property="og:image" content="https://www.resumenerd.com/images/nerd-logo-200x200.jpg" />
-    <meta property="og:image:width" content="200">
-    <meta property="og:image:height" content="200">
-
-    <!-- Twitter meta data -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:creator" content="Eric Emery">
-    <meta name="twitter:site" content="ResumeNerd" />
-    <meta name="twitter:title" content="Eric Emery">
-    <meta name="twitter:description" content="Click here to visit my professional website for more information about me and my career.">
-    <meta name="twitter:image" content="https://www.resumenerd.com/images/nerd-logo-200x200.jpg">
-
-
-    <link href="https://cdn4.resumenerd.com/css/fonts.css?v=144" rel="stylesheet" />
-    <link href="https://cdn4.resumenerd.com/css/resume-site.css?v=144" rel="stylesheet" />
-    <script>
-        function FirePage() {
-            window.RDL.Plugin('analytics').Load(function(){}).Ready(function () {
-                RDL.Analytics.Page('Resume Site', RDL.User.IsSignedIn().toString().toUpperCase(), 'Returning');
-            });
+        div#document div.SECTION_CNTC,div#document div.firstsection{border:none;padding:0;}
+        div#document div.SECTION_NAME .field{display: block;word-break:break-all;}
+        div#document div[id^="SECTION_ADDI"] {padding-bottom: 12pt;}
+        div#document div[id^="SECTION_COMS"],div#document .SECTION_EDUC .paragraph,div#document .SECTION_EXPR .paragraph,div#document .SECTION_VLTR .paragraph{padding-bottom: 12pt;}
+        div#document .skillSection:after{content:'';clear:both;display:table}
+        div#document .skillSection:after{content:'';clear:both;display:table}
+		div#document .right-box div.skillSection .singlecolumn {padding-bottom: 12pt;overflow:hidden;}
+        div#document .right-box div.skillSection .paragraph{width:40%;display: list-item;float: left;margin-left: 23pt!important;list-style: disc;vertical-align:top;clear:none!important;}
+		
+        div#document div.skillSection .paragraph:nth-child(3n+5){clear:both}
+        div#document div.skillSection{width:100%}
+        div#document div.skillSection .field{margin-right: 8pt;padding: .5pt 0 0 0;position:relative}
+        div#document div.skillSection .field:empty{display: inline;}
+       
+        div#document  em {font-style: italic;}
+        div#document strong, div#document b{font-weight:700;}
+        div#document{line-height:11pt;font-weight:400;letter-spacing: 0.6pt;color:#333;}
+        div#document.pagesize{width:536pt;box-sizing:border-box;}
+        div#document .section{padding-top:5pt;padding-bottom:5pt;display:table;width:100%;clear:both;table-layout:fixed}
+        div#document div.paragraph{position: relative;font-size:inherit;margin:0 5pt}
+        div#document div.firstparagraph{padding-top:0;}
+        div#document .singlecolumn,div#document .maincolumn{min-height:15pt;}
+        div#document div.name{color: #ffffff;font-size: 15pt;font-weight: 400;letter-spacing: 4.4pt;line-height: 16pt;text-transform: uppercase;}
+        div#document div.address{font-weight: 600;letter-spacing: 0.6pt;}
+        
+        div#document div.name .job-title-name{font-size: 8pt; letter-spacing :1.82pt; font-weight:400; text-transform:uppercase; display: block;}
+        div#document div.sectiontitle{font-weight:700; letter-spacing: 0.72pt;color:#fff;word-break: break-all;}
+        /*FIX for Re-calculating width of singlecolumn for CL*/
+		
+        div#document .right-box div.paragraph{margin-left: 12pt;}
+        /* Finalize Page - mcs2 */
+        div#document .contact-section{margin-top: 15pt;}
+       
+       /*Two Column layout*/
+       div#document{display: table; table-layout: fixed; width: 100%;min-height: 626pt;}
+       div#document #CONTAINER_PARENT_0{width: 35%;
+        display: table-cell;
+        padding-bottom: 8pt;
+        padding-top: 73pt;
+        padding-right: 8pt;
+        box-sizing: border-box;
+        border-collapse: separate}
+       
+        div#document #CONTAINER_PARENT_1{width: 65%;
+        display: table-cell;
+        box-sizing: border-box;
+        vertical-align: top;
+        padding-top: 18pt;
+        padding-bottom: 20pt;} 
+      
+        @media print {
+        div#document.pagesize{width:100%}
         }
-    </script>
-        <script src="https://cdn3.resumenerd.com/scripts/custom/app.min.js?v=144" crossorigin="anonymous"onload="FirePage()"></script>
+        body{font-feature-settings: "liga" 0; -moz-font-feature-settings: "liga" off;}
+        div#document div.address > span.contactDependecy:last-child > span.contactSeperator{display:none;}
+       
+    </style><style type="text/css" id="unparsed">
+        /* div#document.vmargins{padding-top:{$TBMR}pt;} */
+        div#document.fontsize {font-size: {$FTSZ}pt;line-height:{$FTLH}pt;}
+        div#document div.sectiontitle{font-size:{$HDSZ}pt;line-height:{$HDLH}pt;}
+        div#document .singlecolumn .jobtitle{font-size:{$FTSZ}pt;}
+        div#document.fontface{font-family:{$FTFC};}
+        div#document #CONTAINER_PARENT_0{background:{$HDCL};padding-left:{$LRMR}in;}
+        div#document #CONTAINER_PARENT_1{padding-right:{$LRMR}in;}
+		div#document div.heading{background:{$HDCL};}
+		div#document div.address{font-size: {$FTSZ}pt;}
+        
+		@media only screen and (min-width: 768px) and (max-width: 991px){
+			div#document #CONTAINER_PARENT_1{padding-right:{$LRMRT}in;padding-bottom: 10pt;}
+			div#document #CONTAINER_PARENT_0{padding-left:{$LRMRT}in;}	
+        }
+		@media only screen and (max-width: 767px){
+			div#document{min-height: auto;}
+			div#document #CONTAINER_PARENT_1{padding-right:{$LRMRM}in;padding-bottom: 10pt;}
+			div#document #CONTAINER_PARENT_0{padding-left:{$LRMRM}in;}
+			div#document .section{line-height:{$FTLH}pt;}
+			div#document ul{ padding-left: 18pt;}
+			div#document .right-box div.skillSection .paragraph{margin-left: 27pt!important;width:34%} 
+        }
+		@media only screen and (max-width: 767px) and (orientation: landscape){
+			div#document .section{line-height:inherit;} /* used to fix zoom issue for landscape on finalize page*/
+		}
+    </style><style type="text/css" id="dynamic">
+        /* div#document.vmargins{padding-top:28pt;} */
+        div#document.fontsize {font-size: 8pt;line-height:13pt;}
+        div#document div.sectiontitle{font-size:9pt;line-height:16pt;}
+        div#document .singlecolumn .jobtitle{font-size:8pt;}
+        div#document.fontface{font-family:Source Sans Pro;}
+        div#document #CONTAINER_PARENT_0{background:#305FEC;padding-left:0.3in;}
+        div#document #CONTAINER_PARENT_1{padding-right:0.3in;}
+		div#document div.heading{background:#305FEC;}
+		div#document div.address{font-size: 8pt;}
+        
+		@media only screen and (min-width: 768px) and (max-width: 991px){
+			div#document #CONTAINER_PARENT_1{padding-right:0.4in;padding-bottom: 10pt;}
+			div#document #CONTAINER_PARENT_0{padding-left:0.4in;}	
+        }
+		@media only screen and (max-width: 767px){
+			div#document{min-height: auto;}
+			div#document #CONTAINER_PARENT_1{padding-right:0.2in;padding-bottom: 10pt;}
+			div#document #CONTAINER_PARENT_0{padding-left:0.2in;}
+			div#document .section{line-height:13pt;}
+			div#document ul{ padding-left: 18pt;}
+			div#document .right-box div.skillSection .paragraph{margin-left: 27pt!important;width:34%} 
+        }
+		@media only screen and (max-width: 767px) and (orientation: landscape){
+			div#document .section{line-height:inherit;} /* used to fix zoom issue for landscape on finalize page*/
+		}
+    </style>
+                    </head>
+                    <body><div id="document" class="RND  fontsize fontface vmargins hmargins pagesize"><div id="CONTAINER_PARENT_0"><div id="CONTAINER_0" class="left-box last-box"><div id="SECTION_NAMEc34ef96e-05c5-48f7-93a9-310947ca1c56" class="section firstsection SECTION_NAME firstsection">
+                    <div id="PARAGRAPH_c34ef96e-05c5-48f7-93a9-310947ca1c56_1" class="paragraph PARAGRAPH_NAME firstparagraph">
+                        <div class="nameHeadingContainer">
+                            <div class="name">
+                                <span class="field" id="c34ef96e-05c5-48f7-93a9-310947ca1c56FNAM1">Eric</span><span> </span><span class="field" id="c34ef96e-05c5-48f7-93a9-310947ca1c56LNAM1">Emery</span>
 
-
-</head>
-<body>
-
-<script>
-window.RDL = window.RDL || {};
-</script>
-<input type="hidden" id="segmentKey" value="KlmV3ShhfXgDVj9NM7TVtteiRd6vkggW" />
-<!-- Google Tag Manager (noscript) -->
-<noscript>
-    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9TD7W3"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<!-- End Google Tag Manager (noscript) -->
-        <input type="hidden" id="profileId" value="23331" />
-        <header class="header">
-            <section class="container-main clearfix">
-                <h1 class="logo-name">Eric Emery</h1>
-                    <a href="/download/a142cbe3-8e1c-417e-b620-a2df84a8cb15/PDF/DDASH/RSME" target="_blank" id="downloadResume" class="button-primary button-download radius-primary">Download My Full Resume</a>
-            </section>
-                <div class="site-msg text-center" ]>This site is currently private and won't be visible to visitors. <a href="/dashboard/sites?actionType=SMODE&siteId=23331">Click here to make it public.</a></div>
-        </header>
-        <section class="hero-intro text-center">
-            <div class="container-main">
-                <h1>Hello, I’m Eric Emery.</h1>
-                <p>OSP Construction Supervisor</p>
-            </div>
-        </section>
-        <div class="container-main">
-
-            <section class="content-wrapper text-center summary-section">
-                <i class="fas fa-user-circle"></i>
-                <h2 class="text-upper">PROFESSIONAL SUMMARY</h2>
-                    <div class="summary-description"><p>&nbsp;&nbsp;&nbsp;&nbsp;For every generation, in every family, there is that one particular individual everyone knows to call whenever the internet goes out, any time an appliance quits working, or every new TV, stereo, electronic, or complex device needs to be installed... there is always the guy everyone knows can make it work.&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;In my family, I am that guy.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Extremely interested in learning everything I can in any and all topics. &nbsp;Uniquely skilled in understanding complex ideas and systems quickly. &nbsp;Strong ability to understand needs and train others. &nbsp;I am newly married and seeking a worthy "forever home" to use my skills and abilities, while continuing to learn and grow.</p></div>
-            </section><!-- summary-section -->
-            <section class="content-wrapper experience-section">
-                <i class="fas fa-briefcase"></i>
-                <h2 class="text-upper  text-center">WORK EXPERIENCE</h2>
-                    <div class="experience-timeline">
-                            <div class="timeline-row">
-                                <div class="timeline-left">
-                                    <div class="experince-details">
-                                            <span class="time-period text-upper">2007-Present</span>
-                                        <h3 class="company">True Emotion LLC<span class="designation">Owner</span></h3>
-                                    </div><!-- experince-details -->
-                                </div><!-- timeline-left -->
-                                <div class="timeline-right">
-                                    <ul class="experince-description">
-                                            <li> <p> Founded company for all 10-99 contracts in sales and marketing. </p></li>
-                                            <li> <p>  Door-to-door, direct, retail, network marketing, social marketing, and any other sales or marketing available. </p></li>
-                                    </ul>
-                                </div><!-- timeline-row -->
-                            </div><!-- timeline-row -->
-                            <div class="timeline-row">
-                                <div class="timeline-left">
-                                    <div class="experince-details">
-                                            <span class="time-period text-upper">2021-2022</span>
-                                        <h3 class="company">HHS Construction<span class="designation">OSP Construction Supervisor</span></h3>
-                                    </div><!-- experince-details -->
-                                </div><!-- timeline-left -->
-                                <div class="timeline-right">
-                                    <ul class="experince-description">
-                                            <li> <p> Increased productivity and decreased time needed for new-hire training with changes to scheduling and management processes. </p></li>
-                                            <li> <p>  Cut office assistants hours by 25% by designing and programming a production tracking and reporting software GUI integrated with Excell. </p></li>
-                                    </ul>
-                                </div><!-- timeline-row -->
-                            </div><!-- timeline-row -->
-                            <div class="timeline-row">
-                                <div class="timeline-left">
-                                    <div class="experince-details">
-                                            <span class="time-period text-upper">2019-2021</span>
-                                        <h3 class="company">IM Services Group, LLC<span class="designation">Project Manager</span></h3>
-                                    </div><!-- experince-details -->
-                                </div><!-- timeline-left -->
-                                <div class="timeline-right">
-                                    <ul class="experince-description">
-                                            <li> <p> Managed installation and maintenance of 400 mile stretch of fiber to monitor oil pipeline and worker camp communications. </p></li>
-                                            <li> <p>  Decreased communication outages upgrading all sites to propane-powered backup generators. </p></li>
-                                    </ul>
-                                </div><!-- timeline-row -->
-                            </div><!-- timeline-row -->
-                            <div class="timeline-row">
-                                <div class="timeline-left">
-                                    <div class="experince-details">
-                                            <span class="time-period text-upper">2013-2019</span>
-                                        <h3 class="company">System Tech, Inc<span class="designation">Project Manager</span></h3>
-                                    </div><!-- experince-details -->
-                                </div><!-- timeline-left -->
-                                <div class="timeline-right">
-                                    <ul class="experince-description">
-                                            <li> <p> Maintained average of 32% profit margin, managing over 700 low-voltage system installations projects and 20+ technicians per year. </p></li>
-                                            <li> <p>  Reduced mistakes by certifying and training more technicians in many Communication, Nurse Call, and Security Systems. </p></li>
-                                    </ul>
-                                </div><!-- timeline-row -->
-                            </div><!-- timeline-row -->
-                    </div><!-- experience-timeline -->
-            </section><!-- experience-section -->
-            <section class="content-wrapper text-center education-section">
-                <i class="fas fa-graduation-cap"></i>
-                <h2 class="text-upper">EDUCATION</h2>
-            </section><!-- education-section -->
-            <section class="content-wrapper text-center skills-section">
-                <i class="fas fa-star"></i>
-                <h2 class="text-upper">SKILLS</h2>
-                    <ul class="skills-list">
-                            <li>
-                                <i class="far fa-check"></i>
-                                <span>Improving Efficiency</span>
-                            </li>
-                            <li>
-                                <i class="far fa-check"></i>
-                                <span>Problem Solving</span>
-                            </li>
-                            <li>
-                                <i class="far fa-check"></i>
-                                <span>Communication and Training</span>
-                            </li>
-                            <li>
-                                <i class="far fa-check"></i>
-                                <span>Organization and Planning</span>
-                            </li>
-                            <li>
-                                <i class="far fa-check"></i>
-                                <span>Smiles Guaranteed</span>
-                            </li>
-                            <li>
-                                <i class="far fa-check"></i>
-                                <span>Absorbing Knowledge</span>
-                            </li>
-                    </ul>
-            </section><!-- skills-section -->
-        </div><!-- container-main -->
-            <section class="contact-section">
-                <div class="container-main">
-                    <h2 class="text-upper text-center">Contact Me</h2>
-                    <ul class="contact-options">
-                        <li class="person">
-                            <div class="contact-details">
-                                <h2>Eric Emery</h2>
-                                <span class="designation">OSP Construction Supervisor</span>
                             </div>
-                        </li>
-                        <li class="text-center">
-                            <i class="fas fa-envelope"></i>
-                                <a href=" mailto:eric.trueemotion@gmail.com" class="contact-details">eric.trueemotion@gmail.com</a>
-                        </li>
-                        <li class="text-center">
-                            <i class="fas fa-phone-alt"></i>
-                            <span class="contact-details">2087895736</span>
-                        </li>
-                    </ul>
-                </div><!-- container-main -->
-            </section><!-- skills-section -->
-            <footer class="footer text-center">©2022 By Eric Emery. Created With <a target="_blank" href="https://www.resumenerd.com/">Resumenerd.com</a></footer>
+                        </div>
+                    </div>
 
-</body>
-</html>
+                </div><div id="SECTION_CNTC74cc9760-c378-4c78-80d2-cb57679e6c4d" class="section SECTION_CNTC contact-section">
+                    <div id="PARAGRAPH_74cc9760-c378-4c78-80d2-cb57679e6c4d_1" class="paragraph PARAGRAPH_CNTC firstparagraph">
+                        <div class="contactInfo-section">
+                            <div class="address">
+
+                                
+                                <span class="contactDependecy"><span class="field FIELD_CPHN" id="74cc9760-c378-4c78-80d2-cb57679e6c4dCPHN1">2087895736</span></span><br />
+                                <span class="contactDependecy"><span class="field FIELD_EMAIL" id="74cc9760-c378-4c78-80d2-cb57679e6c4dEMAI1">eric.trueemotion@gmail.com</span></span>
+                                <span class="contactDependecy"><span class="field" id="74cc9760-c378-4c78-80d2-cb57679e6c4dSTRT1">804 West Orchard Avenue, </span></span><br />
+                                <span class="contactDependecy"><span class="spaced field" id="74cc9760-c378-4c78-80d2-cb57679e6c4dCITY1">Hayden</span></span><span>,</span>
+
+
+                                <span class="contactDependecy"><span class="spaced field" id="74cc9760-c378-4c78-80d2-cb57679e6c4dSTAT1">ID</span></span>
+                                <span class="contactDependecy"><span class="spaced field" id="74cc9760-c378-4c78-80d2-cb57679e6c4dZIPC1">83835</span>
+                                
+                                <br /></span>
+								
+                            </div>
+                        </div>
+                    </div>
+
+                </div></div></div><div id="CONTAINER_PARENT_1" class="parentContainer"><div id="CONTAINER_1" class="right-box last-box"><div id="SECTION_SUMM0a73e695-88fd-4785-aad3-61a77d750047" class="section summarysection">
+					<div class="heading">
+						<div class="sectiontitle" id="SECTNAME_SUMM0a73e695-88fd-4785-aad3-61a77d750047">Professional Summary</div>
+					</div>
+					<div class="paragraph firstparagraph" id="PARAGRAPH_0a73e695-88fd-4785-aad3-61a77d750047_1">
+						<div class="field singlecolumn" id="0a73e695-88fd-4785-aad3-61a77d750047FRFM1"><p>    In every family, covering multiple generations, there is always one person that everyone knows to call whenever they need help with a complicated task.  Any time the internet goes out, or their TV stops working, or they have a new system to install, program to run, project to design, they all ask for the same person. </p>
+<p>    In my family, I am that guy.</p>
+<p>    Talented and motivated with a love for knowledge and problem solving, I am very detail-oriented, organized, capable of understanding and teaching tough, complex ideas,  With an always positive attitude and ability to adapt easily in high pressure situations, I excell in finding efficient and quality processes to everything I touch.  I am looking for my "forever home" to build and contribute to a worthy enterprise that I can be proud to be a part of.</p>
+<p>    </p></div>
+					</div>
+
+				</div><div id="SECTION_HILT93fe50b8-e79f-4560-9841-3e766c61e3d6" class="section skillSection">
+					<div class="heading">
+						<div class="sectiontitle" id="SECTNAME_HILT93fe50b8-e79f-4560-9841-3e766c61e3d6">Skills</div>
+					</div>
+					<div class="singlecolumn maincolumn">
+						<div class="paragraph firstparagraph" id="PARAGRAPH_93fe50b8-e79f-4560-9841-3e766c61e3d6_1">
+							<div class="field" id="93fe50b8-e79f-4560-9841-3e766c61e3d6FRFM1">Improving Efficiency</div>
+						</div>
+<div class="paragraph" id="PARAGRAPH_93fe50b8-e79f-4560-9841-3e766c61e3d6_2">
+							<div class="field" id="93fe50b8-e79f-4560-9841-3e766c61e3d6FRFM2">Problem Solving</div>
+						</div>
+<div class="paragraph" id="PARAGRAPH_93fe50b8-e79f-4560-9841-3e766c61e3d6_3">
+							<div class="field" id="93fe50b8-e79f-4560-9841-3e766c61e3d6FRFM3">Communication and Training</div>
+						</div>
+<div class="paragraph" id="PARAGRAPH_93fe50b8-e79f-4560-9841-3e766c61e3d6_4">
+							<div class="field" id="93fe50b8-e79f-4560-9841-3e766c61e3d6FRFM4">Organization and Planning</div>
+						</div>
+<div class="paragraph" id="PARAGRAPH_93fe50b8-e79f-4560-9841-3e766c61e3d6_5">
+							<div class="field" id="93fe50b8-e79f-4560-9841-3e766c61e3d6FRFM5">Smiles Guaranteed</div>
+						</div>
+<div class="paragraph" id="PARAGRAPH_93fe50b8-e79f-4560-9841-3e766c61e3d6_6">
+							<div class="field" id="93fe50b8-e79f-4560-9841-3e766c61e3d6FRFM6">Absorbing Knowledge</div>
+						</div>
+
+					</div>
+				</div><div id="SECTION_EXPRfa03495f-485e-494c-bd8a-1fe9cc2e6768" class="section SECTION_EXPR">
+						<div class="heading">
+							<div class="sectiontitle" id="SECTNAME_EXPRfa03495f-485e-494c-bd8a-1fe9cc2e6768">Experience</div>
+						</div>
+						<div class="paragraph firstparagraph" id="PARAGRAPH_fa03495f-485e-494c-bd8a-1fe9cc2e6768_1">
+							<div class="singlecolumn">
+							
+								<span class="jobtitle" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JTIT1">OSP Supervisor</span><span><span>,</span></span>
+								<span class="paddedline workcompanyname">
+									<span class="companyname" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768COMP1">HHS/Congruex</span><span><span>,</span></span>
+								</span>
+								<span class="dateyear workdate">
+									<span class="jobdates" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JSTD1" format="%b %Y">Nov 2021</span><span> - </span><span class="jobdates" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768EDDT1" format="%b %Y">Mar 2022</span><span>, </span>
+								</span>
+								<span class="paddedline worklocation">
+									<span class="joblocation" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JCIT1">Hayden</span><span>, </span>
+									 <span class="joblocation" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JSTA1">ID</span> 
+									 <span class="joblocation" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JCNT1"></span>    
+								</span>
+
+
+								
+								<span class="text-break">
+									<span class="jobline" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JDES1"><ul>
+  <li>Increased productivity and decreased new-hire training time required implementing changes to scheduling and management processes.</li>
+  <li>Reduced data entry hours 25% by writing and programming production tracking and reporting software with GUI integrated to Excell.</li>
+  <li>Created project management tools increasing efficiency including auto-mapping software of locations on projects into ArcGIS from photo metadata.</li>
+</ul></span>
+								</span>
+							</div>
+						</div>
+<div class="paragraph" id="PARAGRAPH_fa03495f-485e-494c-bd8a-1fe9cc2e6768_2">
+							<div class="singlecolumn">
+							
+								<span class="jobtitle" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JTIT2">Project Manager</span><span><span>,</span></span>
+								<span class="paddedline workcompanyname">
+									<span class="companyname" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768COMP2">IM Services Group, LLC</span><span><span>,</span></span>
+								</span>
+								<span class="dateyear workdate">
+									<span class="jobdates" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JSTD2" format="%b %Y">Sep 2019</span><span> - </span><span class="jobdates" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768EDDT2" format="%b %Y">Nov 2021</span><span>, </span>
+								</span>
+								<span class="paddedline worklocation">
+									<span class="joblocation" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JCIT2">Odessa</span><span>, </span>
+									 <span class="joblocation" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JSTA2">TX</span> 
+									 <span class="joblocation" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JCNT2"></span>    
+								</span>
+
+
+								
+								<span class="text-break">
+									<span class="jobline" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JDES2"><ul>
+  <li>Oversaw project planning and development, quality control, and final review to control milestones and deliverables.</li>
+  <li>Successfully maintained over 400 mile fiber network including 13 comm buildings with multiple racks of equipment, PDU, and UPS.</li>
+  <li>Decreased communication network outages by upgrading all sites to propane-powered backup generators.</li>
+</ul></span>
+								</span>
+							</div>
+						</div>
+<div class="paragraph" id="PARAGRAPH_fa03495f-485e-494c-bd8a-1fe9cc2e6768_3">
+							<div class="singlecolumn">
+							
+								<span class="jobtitle" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JTIT3">Project Manager</span><span><span>,</span></span>
+								<span class="paddedline workcompanyname">
+									<span class="companyname" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768COMP3">System Tech, Inc</span><span><span>,</span></span>
+								</span>
+								<span class="dateyear workdate">
+									<span class="jobdates" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JSTD3" format="%b %Y">Dec 2013</span><span> - </span><span class="jobdates" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768EDDT3" format="%b %Y">Oct 2019</span><span>, </span>
+								</span>
+								<span class="paddedline worklocation">
+									<span class="joblocation" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JCIT3">Boise</span><span>, </span>
+									 <span class="joblocation" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JSTA3">ID</span> 
+									 <span class="joblocation" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JCNT3"></span>    
+								</span>
+
+
+								
+								<span class="text-break">
+									<span class="jobline" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JDES3"><ul>
+  <li>Achieved an average 32% profit margin, managing over 700 low-voltage system installations projects and 20+ technicians per year.</li>
+  <li>Saved labor costs by certifying and training more technicians in many Communication, Nurse Call, and Security Systems.</li>
+</ul></span>
+								</span>
+							</div>
+						</div>
+<div class="paragraph" id="PARAGRAPH_fa03495f-485e-494c-bd8a-1fe9cc2e6768_4">
+							<div class="singlecolumn">
+							
+								<span class="jobtitle" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JTIT4">Owner</span><span><span>,</span></span>
+								<span class="paddedline workcompanyname">
+									<span class="companyname" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768COMP4">True Emotion LLC</span><span><span>,</span></span>
+								</span>
+								<span class="dateyear workdate">
+									<span class="jobdates" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JSTD4" format="%b %Y">Apr 2007</span><span> - </span><span class="jobdates" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768EDDT4" format="%b %Y">Current</span><span>, </span>
+								</span>
+								<span class="paddedline worklocation">
+									<span class="joblocation" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JCIT4">Boise</span><span>, </span>
+									 <span class="joblocation" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JSTA4">ID</span> 
+									 <span class="joblocation" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JCNT4"></span>    
+								</span>
+
+
+								
+								<span class="text-break">
+									<span class="jobline" id="fa03495f-485e-494c-bd8a-1fe9cc2e6768JDES4"><ul>
+  <li>Founded company for contract work in sales and marketing.</li>
+  <li>Successful sales leader in door-to-door, telemarketing, direct, b2b, network marketing, retail, and customer service.</li>
+  <li>Built a full business model, sold the idea, then opened and managed the first two locations of successful home repair company Green Home.</li>
+</ul></span>
+								</span>
+							</div>
+						</div>
+
+					</div><div id="SECTION_ADDIbb8af7a7-ba65-466c-a16d-44fdade0c76e" class="section">
+				<div class="heading">
+					<div class="sectiontitle" id="SECTNAME_ADDIbb8af7a7-ba65-466c-a16d-44fdade0c76e">Additional Information</div>
+				</div>
+				<div class="paragraph firstparagraph" id="PARAGRAPH_bb8af7a7-ba65-466c-a16d-44fdade0c76e_1">
+					<div class="field singlecolumn" id="bb8af7a7-ba65-466c-a16d-44fdade0c76eFRFM1"><p>    For those of you who have made it this far, I dearly appreciate you taking the time and energy to review my resume.  There is never going to be a perfect format to truly capture a whole individual in any realistic platform, as we are all so complex and unique, but I hope to have given enough of a window to help you better understand who I am and what I can offer.</p>
+<p>    And for all you bots out there? Experience Project Manager Telecommunication Sales Supervisor Trainer Python Java HTML Programming SQL CAD GIS Eagle Scout Networking Copper Fiber Splicer Low-voltage Technician Web Marketing Wizard.</p></div>
+				</div>
+
+			</div></div></div></div></body>
+                  </html>
